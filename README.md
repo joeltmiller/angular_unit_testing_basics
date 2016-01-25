@@ -36,4 +36,5 @@ karma and jasmine libraries. The following commands should get you going.
 ## Angular
  
  `npm install angular`
+ 
  `npm install angular-mocks`
