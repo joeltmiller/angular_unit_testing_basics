@@ -31,9 +31,9 @@ karma and jasmine libraries. The following commands should get you going.
  
  `npm install karma-chrome-launcher` - add more plugins if you want to test other browsers
  
- `karma init` starts a wizard that let's you generate the karma configuration file
- karma.conf.js
+ `karma init` - starts a wizard that let's you generate the karma configuration file karma.conf.js
  
- ## Angular
+## Angular
+ 
  `npm install angular`
  `npm install angular-mocks`
