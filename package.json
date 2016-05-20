@@ -4,6 +4,8 @@
   "description": "An introduction to unit testing angular logic",
   "main": "app.js",
   "dependencies": {
+    "angular": "^1.5.5",
+    "angular-mocks": "^1.5.5",
     "jasmine-core": "^2.4.1",
     "karma": "^0.13.15",
     "karma-chrome-launcher": "^0.2.2",
